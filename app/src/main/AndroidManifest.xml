@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Pertemuan1_intent">
-        <activity android:name=".Biodata"></activity>
+        <activity android:name=".segitiga"></activity>
+        <activity android:name=".Biodata" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
